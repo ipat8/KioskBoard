@@ -1,0 +1,10 @@
+!#/bin/bash
+#KioskBoard V0.0.1 - 12/4/2018
+#Copyright © 2018 - Black Sector Technologies (C.O. Patrick M. Womack)
+
+# This software is designed to run on a system without a desktop environment or login manager.
+# Please follow the guide on GitHub for the correct way to setup your system to run KioskBoard.
+
+# Legal Disclaimer
+# In pre-release states, KioskBoard comes with no Warrenty, and is provided as is.
+# Do not modify and redistrubte your modifications without explict permission from Black Sector Technologies.
